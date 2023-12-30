@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://akshaykumararora9:zzYtJHcnsoNSBQpf@cluster0.8mcjxjk.mongodb.net/?retryWrites=true&w=majority",
+
+    "jwtSecret":"akds"
+}

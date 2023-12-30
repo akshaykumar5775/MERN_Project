@@ -1,0 +1,14 @@
+1) bcyptjs:- encrypts passwords , Library
+2) config:- global variable declaration , Library
+3) jsonwebtoken:- JWT, create authorisation for continous stream to multiple feeds aur links
+4) mongoose :- Library, database handling
+5) axios:- Library, help to fetch resources from backend in form of http request
+6) nodemon :- Start the server
+7) concurrently:- can run backend and frontend on same prompt
+
+
+Note:-"dependencies" : Packages required by your application in production. "devDependencies" : Packages that are only needed for local development and testing.
+nodemon and concurrently are dev Dependencies
+
+promise returning:-
+async await
